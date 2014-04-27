@@ -1,0 +1,14 @@
+{
+    "name": "adri/monkey",
+    "description": "Monkey patching library for PHP.",
+    "require": {
+        "nikic/php-parser": "1.*@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adrian Philipp",
+            "email": "mail@adrian-philipp.com"
+        }
+    ]
+}
